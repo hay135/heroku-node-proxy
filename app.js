@@ -5,7 +5,7 @@
  *
  * This project is hosted on github:  https://github.com/nfriedly/node-unblocker
  *
- * By Nathan Friedly - http://nfriedly.com
+ * NOT By Nathan Friedly - http://nfriedly.com
  * Released under the terms of the GPL v3
  */
 
