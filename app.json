@@ -1,6 +1,6 @@
 {
-  "name": "weedy's web proxy",
-  "description": "lets get this bread",
+  "name": "bleedy's Bleb Broxy",
+  "description": "blets bet bis bread",
   "image": "heroku/nodejs",
   "repository": "https://github.com/chargedpika/heroku-node-proxy",
   "keywords": ["node-noblocker", "chargedpika"],
