@@ -8,7 +8,7 @@ exports.config = {
     /**
      * Array of application names.
      */
-    app_name: ['Node Unblocker'],
+    app_name: ['Shmode Unshmoker'],
     /**
      * Your New Relic license key.
      */
